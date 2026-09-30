@@ -14,7 +14,7 @@ These are **learning exercises**, not production apps. They show practice with:
 
 | Folder | What is inside |
 |---|---|
-| `practice/` | Language drills (threads, lock, interface injection) |
+| `practice/` | Language drills (threads, lock, interfaces, interface injection) |
 | `drills/` | Short refresher drills (constructors) |
 | `structure/` | Blank-sheet design practice |
 | `exam/` | Exam minis, combos, and API/RBAC sketches |
