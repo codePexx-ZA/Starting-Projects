@@ -21,7 +21,7 @@ namespace BookDrill
     {
         static void Main(string[] args)
         {
-            var book = new Book("Eduvos");
+            var book = new Book("Clean Code");
             string name = book.GetTitle();
             Console.WriteLine(name);
         }
