@@ -1,6 +1,6 @@
-# C# Learning Activities (ITEHA / exam prep)
+# C# Learning Activities (exam prep)
 
-Small C# drills and exam-style sketches written while studying enterprise C# (Eduvos ITEHA).
+Small C# drills and exam-style sketches written while studying enterprise C#.
 
 These are **learning exercises**, not production apps. They show practice with:
 
@@ -15,7 +15,7 @@ These are **learning exercises**, not production apps. They show practice with:
 | Folder | What is inside |
 |---|---|
 | `practice/` | Language drills (threads, lock, interface injection) |
-| `drills/` | Short refresher drills (constructor, SRP) |
+| `drills/` | Short refresher drills (constructors) |
 | `structure/` | Blank-sheet design practice |
 | `exam/` | Exam minis, combos, and API/RBAC sketches |
 | `recap/` | Spaced-repetition recap sessions |
